@@ -94,4 +94,4 @@ Feel free to submit issues or pull requests for improvements or additions.
 
 #### Author
 
-[Reza Sadeghi](https://github.com/xre22zax/)
+(https://github.com/Saheb-Alam)
